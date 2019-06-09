@@ -1,0 +1,1 @@
+# slim-mongo-ui
